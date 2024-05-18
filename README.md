@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-As a passionate **Game and Web Developer** with 8 years of experience in game development (5 years professionally for companies and 3 years on private projects) and 4 years in frontend development (web), I am constantly driven by my belief that _"gaming can create a better world"_. 
+With 8 years of experience in game development and 4 years in frontend web development, I'm deeply passionate about the potential of gaming to make a positive impact. While I currently work primarily in frontend development professionally, I'm also dedicated to indie game projects on the side. 
 
-My current professional role is in frontend development, but I also dedicate myself to indie game development, actively pursuing projects in this area. I am always open to new challenges and opportunities that allow me to grow and contribute meaningfully to the gaming and tech community.
+I'm always excited about new challenges and opportunities to grow while contributing to the tech and gaming communities.
 
 🔗 [Visit my portfolio here](https://www.youtube.com/watch?v=uiz9Lsk8rGg&list=PL9azWjUPjL3XktSDFctwvTWqBjxDRC0ib&index=1)
 
