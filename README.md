@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[Visit my portfolio here](https://www.youtube.com/watch?v=uiz9Lsk8rGg&list=PL9azWjUPjL3XktSDFctwvTWqBjxDRC0ib&index=1)
 <!--
 **ParanoidAandroid42/ParanoidAandroid42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
