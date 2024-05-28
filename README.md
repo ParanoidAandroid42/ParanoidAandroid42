@@ -2,7 +2,6 @@
 
 - 🎮 I've been diving into adventures in the game development world for 8 years, and now I'm continuing this exciting journey alongside web development. 
 - 🌱 I'm currently learning Unity ECS for my professional career.
-- 🔭 Also I’m currently working on a short-term project developing a cocktail game for multiplayer play. In the long term, working on a horror game.
 - 🌟 I believe that games have the power to make the world a better place, and this belief motivates me every day!
 - 💬 Ask me about game development, frontend development, or anything related to tech and gaming!
 - 🚀 New projects and adventures always excite me! I'm ready to do my best to contribute meaningfully to the technology and gaming communities.
