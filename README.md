@@ -1,17 +1,10 @@
 ### Hi there 👋  I'm Aslı Tuzcuoğlu! 
 
-- 🎮 I've been diving into adventures in the game development world for 8 years, and now I'm continuing this exciting journey alongside web development. 
-- 🌱 I'm currently learning Unity ECS for my professional career.
-- 🌟 I believe that games have the power to make the world a better place, and this belief motivates me every day!
-- 💬 Ask me about game development, frontend development, or anything related to tech and gaming!
-- 🚀 New projects and adventures always excite me! I'm ready to do my best to contribute meaningfully to the technology and gaming communities.
-
-## Projects that Excite Me in General:
-**Creative and Original Games**: Working with unique and original game ideas triggers my creativity and always excites me.
-
-**Meaningful Social Projects**: Projects that benefit society, help people, or raise awareness are very valuable to me. Working on such projects offers the opportunity to make positive changes in the real world using technology.
-
-**Design System**: Another area I'm passionate about is creating and implementing design systems. Establishing a comprehensive and consistent design language helps improve user experiences, which is incredibly exciting for me.
+- 🎮 I've been exploring the world of game development for the past 8 years, and I continue this journey as an Indie Developer.
+- 💻 In addition to game development, I'm also an expert frontend developer and love honing my skills in this area as well.
+- 🌟 I strongly believe that games have the potential to make the world a better place, and this belief fuels my passion every single day!
+- 💬 Feel free to ask me anything about game development, frontend development, or anything related to tech and gaming!
+- 🚀 I'm always excited about new projects and adventures. I'm eager to make meaningful contributions to both the tech and gaming communities.
 
 If you share the same beliefs or have a project in mind that we could collaborate on, feel free to reach out! 
  [LinkedIn](https://www.linkedin.com/in/asli-tuzcuoglu/), [Instagram](https://www.instagram.com/portatifevren/?hl=en) or [e-mail](asli.tuzcuoglu92@gmail.com).
