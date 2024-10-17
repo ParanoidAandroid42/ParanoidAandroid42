@@ -9,4 +9,4 @@
 If you share the same beliefs or have a project in mind that we could collaborate on, feel free to reach out! 
  [LinkedIn](https://www.linkedin.com/in/asli-tuzcuoglu/), [Instagram](https://www.instagram.com/portatifevren/?hl=en) or [e-mail](asli.tuzcuoglu92@gmail.com).
 
-🔗 [Visit my portfolio here](https://www.youtube.com/watch?v=uiz9Lsk8rGg&list=PL9azWjUPjL3XktSDFctwvTWqBjxDRC0ib&index=1)
+🔗 [Visit my portfolio here](https://www.aslituzcuoglu.com/)
