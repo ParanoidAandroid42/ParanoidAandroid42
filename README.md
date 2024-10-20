@@ -6,6 +6,6 @@
 - 🚀 I'm always excited about new projects and adventures. I'm eager to make meaningful contributions to both the tech and gaming communities.
 
 If you share the same beliefs or have a project in mind that we could collaborate on, feel free to reach out! 
- [LinkedIn](https://www.linkedin.com/in/asli-tuzcuoglu/), [Instagram](https://www.instagram.com/portatifevren/?hl=en) or [e-mail](asli.tuzcuoglu92@gmail.com).
+ [LinkedIn](https://www.linkedin.com/in/asli-tuzcuoglu/), [Instagram](https://www.instagram.com/portatifevren/?hl=en) or [e-mail](info@aslituzcuoglu.com).
 
 🔗 [Visit my website here](https://www.aslituzcuoglu.com/)
