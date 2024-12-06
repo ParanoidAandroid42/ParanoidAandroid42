@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Aslı Tuzcuoğlu! 
 
 - 🎮 I've been exploring the world of game development for the past 8 years.
-- 💻 In addition to game development, I'm also an expert frontend developer and love honing my skills in this area as well.
+- 💻 In addition to game development, I'm also a web developer and love honing my skills in this area as well.
 - 💬 Feel free to ask me anything about game development, frontend development, or anything related to tech and gaming!
 - 🚀 I'm always excited about new projects and adventures. I'm eager to make meaningful contributions to both the tech and gaming communities.
 
