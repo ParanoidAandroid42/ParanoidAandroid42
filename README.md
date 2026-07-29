@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Aslı Tuzcuoğlu! 
 
-🎮  I'm a passionate game developer with 9 years of experience in the industry. My journey began as a Unity developer, where I created various casual games, shooter games, and later expanded into hyper-casual games.
+🎮  I'm a passionate game developer with 10+ years of experience in the industry. My journey began as a Unity developer, where I created various casual games, shooter games, and later expanded into hyper-casual games.
 
 🎰  I transitioned into the casino gaming sector, developing slot, bingo, and jackpot games using Pixi.js. This experience taught me the importance of performance optimization and cross-platform compatibility.
 
