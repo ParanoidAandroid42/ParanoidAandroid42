@@ -11,6 +11,6 @@
 🚀  I thrive on new projects and creative challenges. If you think I can help bring your vision to life, I'd love to hear from you. I'm always open to collaboration and excited to contribute to innovative projects.
 
 Feel free to reach out! 
- [LinkedIn](https://www.linkedin.com/in/asli-tuzcuoglu/), [Instagram](https://www.instagram.com/portatifevren/?hl=en) or [e-mail](info@aslituzcuoglu.com).
+ [LinkedIn](https://www.linkedin.com/in/asli-tuzcuoglu/), [Instagram](https://www.instagram.com/portatifevren/?hl=en) or [e-mail](mailto:info@aslituzcuoglu.com).
 
 🔗 [Visit my website here](https://www.aslituzcuoglu.com/)
